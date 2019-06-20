@@ -1,0 +1,98 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.menu-container {
+  color: #fff;
+  background-color: #5995DA;  /* Blue */
+  padding: 20px 0;
+  display: flex;
+  justify-content: flex-start;
+}
+
+.menu {
+  width: 900px;
+  margin-left: 100px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.links {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.login {
+  margin-left: 20px;
+}
+
+.main-container {
+	display: flex;
+	align-items: stretch;
+}
+
+.sidebar-container {
+	border: 1px solid #fff;  /* For debugging */
+	background-color: #5995CC;
+	display: flex;
+	flex-direction: column;
+	width: 200px;
+	font-size: 2em;
+}
+
+.sidebar-container div {
+	padding: 10px;
+}
+
+.workbench {
+	flex: 1;
+}
+
+.column-headers {
+	display: flex;
+	justify-content: space-between;
+	border: 1px solid #fff;  /* For debugging */
+	background-color: blue;
+	color: white;
+}
+.candidate {
+	display: flex;
+	justify-content: space-between;
+	border: 1px solid #fff;  /* For debugging */
+	background-color: white;
+	color: blue;
+}
+
+.tg  {
+	border-collapse:collapse;border-spacing:0;
+}
+
+.tg td{
+	font-family:Arial, sans-serif;
+	font-size:14px;
+	padding:10px 5px;
+	border-style:solid;
+	border-width:1px;
+	overflow:hidden;
+	word-break:normal;
+	border-color:black;
+}
+
+.tg th{
+	font-family:Arial, sans-serif;
+	font-size:14px;
+	font-weight:normal;
+	padding:10px 5px;
+	border-style:solid;
+	border-width:1px;
+	overflow:hidden;
+	word-break:normal;
+	border-color:black;
+}	
+
+.selected {
+	color: yellow;
+	background-color: blue;
+}

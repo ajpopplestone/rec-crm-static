@@ -1,0 +1,12 @@
+.sidebar-container {
+	border: 1px solid #fff;  /* For debugging */
+	background-color: #5995CC;
+	display: flex;
+	flex-direction: column;
+	width: 200px;
+	font-size: 2em;
+}
+
+.sidebar-container div {
+	padding: 10px;
+}

@@ -1,0 +1,46 @@
+.urlInput {
+    width: 450px;
+}
+
+.radius {
+    width: 80px;
+}
+
+.searchHeader a {
+    margin: 4px;
+}
+
+.searchHeader input {
+    margin: 4px;
+}
+
+.searchHeader .input {
+    width: 150px
+}
+
+
+.searchHeader button {
+    margin: 4px;
+}
+
+.newCand{
+    background-color: #5995DA; 
+    border: solid black 1px;
+    color: white;
+    padding: 5px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+}
+
+.clearSearch{
+    background-color: #5995DA; 
+    border: solid black 1px;
+    color: white;
+    padding: 5px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+}

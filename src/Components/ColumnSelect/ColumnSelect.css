@@ -1,0 +1,12 @@
+.columnSelect {
+  z-index: 2;
+  position: absolute;
+  top: 30%;
+  left: 40%;
+  width: 20%;
+  border: solid black 2px;
+  background-color: white;
+  border-radius: 25px;
+  pointer-events: auto;
+}
+

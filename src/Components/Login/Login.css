@@ -1,0 +1,27 @@
+.background {
+    background-image: url("https://picsum.photos/1404/936?image=1048");
+    position: fixed;
+    margin: 0;
+    min-width: 100%;
+    min-height: 100%;
+}
+
+.Login {
+  z-index: 2;
+  position: absolute;
+  top: 30%;
+  left: 40%;
+  width: 20%;
+  padding: 60px 0;
+  border: solid black 2px;
+  background-color: white;
+  border-radius: 25px;
+  pointer-events: auto;
+}
+
+
+.Login form {
+    margin: 0 auto;
+    max-width: 320px;
+}
+

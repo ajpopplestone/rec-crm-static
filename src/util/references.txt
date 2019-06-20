@@ -1,0 +1,10 @@
+https://postcodes.io/ lat long look up
+
+https://www.movable-type.co.uk/scripts/latlong.html lat long distance search
+
+https://stackoverflow.com/questions/171251/how-can-i-merge-properties-of-two-javascript-objects-dynamically    merge objects
+
+https://stackoverflow.com/questions/494035/how-do-you-use-a-variable-in-a-regular-expression
+
+excel to json
+https://www.npmjs.com/package/excel-as-json
